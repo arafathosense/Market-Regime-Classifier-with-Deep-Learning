@@ -14,7 +14,7 @@ This project is an advanced Streamlit application for classifying market regimes
 ## How to Run
 1. Clone or fork this repository:
    ```sh
-   git clone https://github.com/tubakhxn/market-regime-classifier.git
+   git clone https://github.com/arafathosense/market-regime-classifier.git
    ```
    Or fork using the GitHub UI (top right corner).
 2. Install dependencies:
@@ -39,6 +39,3 @@ This project is an advanced Streamlit application for classifying market regimes
 **GitHub:** https://github.com/arafathosense
 
 **Researcher: Artificial Intelligence, Image Computing, Image Processing, Machine Learning, Deep Learning, Computer Vision**
-
----
-For questions or contributions, contact tubakhxn.
